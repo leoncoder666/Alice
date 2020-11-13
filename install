@@ -1,0 +1,4 @@
+#!/usr/bin/env sh
+
+apt install ./PACKAGE.deb -y
+
